@@ -12,3 +12,7 @@
 **/
 
 @import url(https://discord-modifications.github.io/dark-discord/src/source.css);
+::placeholder, body, button, input, select, textarea {
+    font-family: Liga SFMono Nerd Font;
+    text-rendering: optimizeLegibility;
+}
